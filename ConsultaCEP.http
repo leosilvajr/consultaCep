@@ -1,0 +1,6 @@
+@ConsultaCEP_HostAddress = http://localhost:5073
+
+GET {{ConsultaCEP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
